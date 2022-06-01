@@ -1,0 +1,14 @@
+.bgk-middle-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.bgk-middle{
+    width: 100%;
+    position: relative;
+}
+
+.play-png{
+    position: absolute;
+}
